@@ -1,0 +1,13 @@
+
+.auth-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+mat-card {
+  padding: 24px;
+  width: 400px;
+}
+.full-width {
+  width: 100%;
+}
